@@ -2,8 +2,8 @@
 <h3>This is a guide on how to create your LimaCharlie EDR account, instance, and sensor.</h3>
 
 [1. Account Creation](#account-creation) <br>
-[2. Installation Key Setup](#Installation-Key-Setup) <br>
-[3. Sensor Installation](#Sensor-Installation)
+[2. Installation Key Setup](#installation-key-setup) <br>
+[3. Sensor Installation](#sensor-installation)
 
 <h2>Account Creation</h2>
 <h3>This section details how to create a LimaCharlie account for access to the web portal.</h3>
@@ -30,5 +30,9 @@
 <h2>Sensor Installation</h2>
 <h3>This section details how to install LimaCharlie sensor on an endpoint.</h3>
 <b>
-1. Scroll down undernath your installation keys, and you will find the Sensor Downloads section. In the EDR category select the OS you plan to install on. In my example I will be installing on a Windows x64 bit.
+1. Scroll down undernath your installation keys, and you will find the Sensor Downloads section. In the EDR category select the OS you plan to install on. In my example I will be installing on a Windows x64 bit. Now copy the URL or move the file on to the host you intend to install sensor on.
   <img width="1218" height="276" alt="image" src="https://github.com/user-attachments/assets/0d89ad38-4828-4064-b6d2-8b5467f4853b" />
+2. There are directions above on how to install. In my case I will run command "lc_sensor.exe -i YOUR_INSTALLATION_KEY"
+   <img width="1108" height="339" alt="image" src="https://github.com/user-attachments/assets/81ca85e5-aaa3-4bb2-83d5-5b92ea849e7f" />
+3. After sucessful installation, you should see your endpoint in your sensor list.
+   <img width="1205" height="417" alt="image" src="https://github.com/user-attachments/assets/041336b8-a5cf-4390-b3ea-09aaf61ad2c5" />
