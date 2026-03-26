@@ -45,6 +45,7 @@ If we go back to our event from the timeline we can press the copy event button.
 <img width="858" height="477" alt="image" src="https://github.com/user-attachments/assets/f51b1f6d-18e4-49d9-b0c9-769306571c79" /><br>
 Then back on our rules page, scroll down and press "Target Event", then paste our copied event log. Now press Test Event button.
 My image below shows 4/4 operations were evaluated and matched successfully<br>
-<img width="719" height="1130" alt="image" src="https://github.com/user-attachments/assets/e0fd74a5-b4a8-4e2e-a972-8cfdb5dc2976" />
+<img width="719" height="1130" alt="image" src="https://github.com/user-attachments/assets/e0fd74a5-b4a8-4e2e-a972-8cfdb5dc2976" /><br><br>
+We can now press create, and this rule is complete.
 
 </b>
