@@ -19,4 +19,4 @@ Tines > Prompt User to isolate the machine (Yes/NO)
 - Message: Isolation status with note of "The computer <computer> was not isolated, please investigate."
 
 <h1> Playbook Diagram </h1>
-<img width="772" height="990" alt="image" src="https://github.com/user-attachments/assets/b74e5333-82a9-4bc4-9068-e705ce7c61dc" />
+<img width="725" height="965" alt="image" src="https://github.com/user-attachments/assets/85bb7468-d829-425f-a20f-39ca9504c56c" />
