@@ -7,24 +7,11 @@ In this project I provide walkthrough documentation starting from the ground up,
   - Tines<br>
   - Slack<br>
   - E-mail<br>
-  - Malware (Mimikatz)<br>
+  - HackTool (Mimikatz)<br>
   - Windows Desktop (Used as compromised host)<br>
 
 <h2>Process Overview</h2>
-Story - Tines<br>
-Create detection in LimaCharlie - Detect HackTool > Tines > Slack & Email<br>
-
-Slack & Email will contain:<br>
-- Alert Title
-- Time
-- Computer Name
-- Source IP
-- UserName
-- File Path
-- Command Line
-- Sensor ID
-- Link to detection (if applicable)
-- Link to User Prompt<br><br>
+Create detection in LimaCharlie - Detect Mimikatz > Tines > Slack & Email<br><br>
 
 Tines > Prompt User to isolate the machine (Yes/NO)
 - if yes: LimaCharlie should automatically isolate the machine and a message should be sent to Slack.<br>
