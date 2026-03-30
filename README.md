@@ -1,6 +1,6 @@
 <h1> EDR + SOAR Homelab Project </h1>
 <h2>Description</h2>
-In this project I built a SOAR workflow where LimaCharlie EDR detections are feed to a webhook in Tines. Tines provides orcastration acting as our central control plane. Automations are setup to send alerts via Slack and E-mail. Additionally an autogenertated user prompt will be provided in the alerts showcasing key alert details, allowing us to respond to the threat. The user prompt will ask us if we want to network isolate the endpoint, and based upon our analysis we could answer yes, and automate the actions needed to do so.
+In this project I built a SOAR workflow where LimaCharlie EDR detections are fed to a webhook in Tines. Tines provides orcastration acting as our central control plane. Automations are setup to send alerts via Slack and E-mail. Additionally an autogenertated user prompt will be provided in the alerts showcasing key alert details, allowing us to respond to the threat. The user prompt will ask us if we want to network isolate the endpoint, and based upon our analysis we could answer yes, and automate the actions needed to do so.
 
 <h2>Tools Used</h2> 
 
