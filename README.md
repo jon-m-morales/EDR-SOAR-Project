@@ -1,14 +1,18 @@
 <h1> EDR + SOAR Homelab Project </h1>
 <h2>Description</h2>
-In this project I provide walkthrough documentation starting from the ground up, configuring Lima Charlie EDR and Tines for SOAR capabilities. This lab will be focuses on using these tools to provide orcastration, automation, and response. Tines will provide orcastration acting as our central control plane. Automations will be setup to send alerts via Slack and E-mail. Additionally an autogenertated user prompt will be provided showcasing key alert details and allow us to respond to the threat. The user prompt will ask us to network isolate the endpoint, and based upon our decision we could answer yes, and automate the actions needed to do so.
+In this project I built a SOAR workflow where LimaCharlie EDR detections are feed to a webhook in Tines. Tines provides orcastration acting as our central control plane. Automations are setup to send alerts via Slack and E-mail. Additionally an autogenertated user prompt will be provided in the alerts showcasing key alert details, allowing us to respond to the threat. The user prompt will ask us if we want to network isolate the endpoint, and based upon our analysis we could answer yes, and automate the actions needed to do so.
 
-<h2>Tools used</h2>
-  - LimaCharlie<br>
-  - Tines<br>
-  - Slack<br>
-  - E-mail<br>
-  - HackTool (Mimikatz)<br>
-  - Windows Desktop (Used as compromised host)<br>
+<h2>Tools Used</h2> 
+
+- LimaCharlie 
+- Tines 
+- Slack 
+- E-mail 
+- HackTool (Mimikatz)
+
+<h2>Enviornments Used</h2>
+
+- Windows 11 Desktop (Used as compromised host)
 
 <h2>Process Overview</h2>
 Create detection in LimaCharlie - Detect Mimikatz > Tines > Slack & Email<br><br>
