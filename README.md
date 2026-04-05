@@ -34,10 +34,10 @@ Tines > Prompt User to isolate the machine (Yes/NO)
 <img width="973" height="720" alt="Initial Slack Alert" src="https://github.com/user-attachments/assets/d2f55ec2-eb83-47f0-aa31-b5485e9b70fb" />
 <img width="1143" height="514" alt="Initial E-mail Alert" src="https://github.com/user-attachments/assets/776beef2-60b7-45ab-9dec-157531a2963f" />
 <img width="726" height="833" alt="User Prompt for host Network Isolation" src="https://github.com/user-attachments/assets/f4954c3d-afa0-49ee-9f51-3b1479d3da5d" /><br><br>
-2) After carfully analyzing detection, we decice to isolate host from network. So we click yes and submit on the user prompt.
+2) After carfully analyzing detection, we decice to isolate host from network. So we click yes and submit on the user prompt.<br>
 <img width="726" height="833" alt="Submit resolution screen" src="https://github.com/user-attachments/assets/bce6bc40-2adf-4352-a96e-002e296807eb" /><br><br>
-3)Slack sends a message with computer name and verified sensor isolation status.
+3)Slack sends a message with computer name and verified sensor isolation status.<br>
 <img width="983" height="716" alt="Slack Isolation Status Message" src="https://github.com/user-attachments/assets/81bea0c1-5685-41d9-9b65-51ce0a84081a" /><br><br>
-4) Lets navigate to EDR to verify the automation has worked as intended.
+4) Lets navigate to EDR to verify the automation has worked as intended.<br>
 <img width="934" height="762" alt="image" src="https://github.com/user-attachments/assets/a3d77865-8fbf-4c93-b72f-587837c39613" />
 
